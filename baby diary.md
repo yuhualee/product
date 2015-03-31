@@ -31,6 +31,8 @@
 
 	* 详情页(detail)：
 	
+	* 我：
+	
 	
 * 导航：diary，calendar,albums,大事记，
 	
